@@ -25,6 +25,7 @@ Excluir branch: git branch -d <nome-da-branch>
 Trocar branch: git checkout <nome-da-branch> (*branch precisa existir para haver a troca) - trocar e criar:git checkout -b <nome-da-branch>
 Receber atualizações do repoitório: git pull <repositório-remoto>
 Subir para branch principal (master/main): git merge
+```
 
 ##  Comandos de Navegação
 ```
