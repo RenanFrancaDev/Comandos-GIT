@@ -3,7 +3,7 @@
 ```
  git init
  git add README.md
- git commit -m "Descrição do COmmit"
+ git commit -m "Descrição do Commit"
  git branch -M main
  git remote add origin git@github.com:RenanFrancaDev/nome-do-repositório
  git push -u origin main
